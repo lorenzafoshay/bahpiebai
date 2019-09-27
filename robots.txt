@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phoosaeni.q-bone.ru/sitemap.xml
